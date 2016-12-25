@@ -17,7 +17,7 @@ Meteor.js免費學習資源!
 #### 英文視頻
 * [what is meteor?](https://www.eventedmind.com/classes/getting-started-with-meteor/meteor-what-is-meteor)
 * [eventedmind](https://www.eventedmind.com) 
-
+* [Build a Social Network with Meteor and React JS](https://www.youtube.com/watch?v=jHWaBpO3tMI&list=PLKfAG4yMwKkSTkCFX7HXG5GAN-fvGAQqY) 
 ### 開源項目
 #### 社群營運項目
 * telescope 《Discover Meteor》书中的案例代码
